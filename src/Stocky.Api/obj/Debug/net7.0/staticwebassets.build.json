@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ay88pqJq+HtDuGrYSBFaVGNdk9r+6H6shsIQHYf1H7E=",
+  "Source": "Stocky.Api",
+  "BasePath": "_content/Stocky.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
